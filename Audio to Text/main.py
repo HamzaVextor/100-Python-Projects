@@ -1,6 +1,3 @@
-Certainly! Here's your code with added comments to document its functionality:
-
-```python
 import speech_recognition as sr
 
 def main():
@@ -30,6 +27,3 @@ def main():
 
 # Call the main function to start speech recognition
 main()
-```
-
-These comments explain the purpose and functionality of each section of your code. It's essential to document your code like this to make it more understandable for yourself and others who may read or work on it in the future.
